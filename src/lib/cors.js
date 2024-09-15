@@ -1,8 +1,8 @@
 import Cors from 'cors';
-import initMiddleware from './init-middleware';
+import InitMiddleware from './middleware';
 
 // Initialize the cors middleware
-const cors = initMiddleware(
+const cors = InitMiddleware(
     Cors({
         // You can add more options here
         methods: ['GET', 'POST', 'DELETE'],

@@ -8,7 +8,7 @@ const Cart = () => {
 
     const [blogs,setBlogs]=useState([])
         const fetchData=async()=>{
-            let res=await fetch("https://bloginnextjs.vercel.app//api/blog")
+            let res=await fetch("http://localhost:3000/api/blog")
             const data=await res.json()
             console.log(data)
             setBlogs(data)

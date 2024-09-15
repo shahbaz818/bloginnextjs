@@ -1,4 +1,3 @@
-import cors from '@/lib/cors';
 import Blog from '../../../lib/blogModel';
 import connectDb from '../../../lib/connectDb';
 import { NextResponse } from 'next/server';
@@ -25,7 +24,7 @@ console.log(upload)
 
 
 export async function GET(req) {
-    await cors(req, res)
+
     try {
         const blogId = req.nextUrl.searchParams.get("id");
 

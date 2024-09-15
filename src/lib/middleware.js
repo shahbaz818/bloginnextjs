@@ -1,4 +1,4 @@
-export default function initMiddleware(middleware) {
+export default function InitMiddleware(middleware) {
     return (req, res, next) =>
         middleware(req, res, (result) => {
             if (result instanceof Error) {

@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import Email from "../../../../lib/emailModels";
+import Email from "../../../../lib/email";
 import connectDb from "../../../../lib/connectDb";
 connectDb()
 export async function DELETE(req, content) {
