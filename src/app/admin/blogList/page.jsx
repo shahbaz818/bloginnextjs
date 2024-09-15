@@ -3,7 +3,7 @@ import DeleteBlog from '../../../components/adminComponents/DeleteBlog'
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
 
-const page = () => {
+const Page = () => {
   const [listBlog, setListBlog] = useState([])
 
   const fetchData = async () => {
@@ -53,4 +53,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page

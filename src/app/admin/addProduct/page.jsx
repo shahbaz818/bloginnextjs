@@ -2,7 +2,7 @@
 import React, { useState } from 'react'
 import { toast } from 'react-toastify'
 
-const page = () => {
+const Page = () => {
   const [title,setTitle]=useState("")
   const [image,setImage]=useState("")
   const [description,setDescription]=useState("")
@@ -58,4 +58,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page

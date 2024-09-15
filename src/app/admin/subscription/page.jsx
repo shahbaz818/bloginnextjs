@@ -3,7 +3,7 @@ import DeleteEmail from '../../../components/adminComponents/DeleteEmail'
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
 
-const page = () => {
+const Page = () => {
   const [listEmail, setListEmail] = useState([])
 
   const fetchData = async () => {
@@ -53,4 +53,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page

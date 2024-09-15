@@ -3,7 +3,7 @@ import React from 'react'
 import admin from '../../../public/admin.png'
 import Link from 'next/link'
 
-const sidebar = () => {
+const Sidebar = () => {
     return (
         <>
             <div className='flex flex-col bg-slate-100 ml-2'>
@@ -31,4 +31,4 @@ const sidebar = () => {
     )
 }
 
-export default sidebar
+export default Sidebar
