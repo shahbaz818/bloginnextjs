@@ -1,0 +1,45 @@
+{
+    "blogs": [{
+            "id": 1,
+            "category": "technology",
+            "title": "The Rise of Quantum Computing",
+            "description": "Explore the potential of quantum computing and how it's set to revolutionize technology as we know it.",
+            "url": "https://cdn.sanity.io/images/tlr8oxjg/production/5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.png?w=3840&q=100&fit=clip&auto=format"
+        },
+        {
+            "id": 2,
+            "category": "lifestyle",
+            "title": "10 Tips for a Healthier Work-Life Balance",
+            "description": "Discover practical tips and strategies to improve your work-life balance and lead a more fulfilling life.",
+            "url": "https://cdn.sanity.io/images/tlr8oxjg/production/5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.png?w=3840&q=100&fit=clip&auto=format"
+        },
+        {
+            "id": 3,
+            "category": "startup",
+            "title": "How to Pitch Your Startup to Investors",
+            "description": "Learn the essentials of crafting a compelling pitch that will capture the attention of potential investors.",
+            "url": "https://cdn.sanity.io/images/tlr8oxjg/production/5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.png?w=3840&q=100&fit=clip&auto=format"
+        },
+        {
+            "id": 4,
+            "category": "technology",
+            "title": "The Future of Artificial Intelligence",
+            "description": "An in-depth look at how AI is evolving and what it means for the future of various industries.",
+            "url": "https://cdn.sanity.io/images/tlr8oxjg/production/5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.png?w=3840&q=100&fit=clip&auto=format"
+        },
+        {
+            "id": 5,
+            "category": "lifestyle",
+            "title": "Minimalist Living: Simplify Your Life",
+            "description": "A guide to embracing minimalist living and how it can lead to a more organized and stress-free lifestyle.",
+            "url": "https://cdn.sanity.io/images/tlr8oxjg/production/5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.png?w=3840&q=100&fit=clip&auto=format"
+        },
+        {
+            "id": 6,
+            "category": "startup",
+            "title": "Scaling Your Startup: Challenges and Solutions",
+            "description": "Understand the common challenges startups face when scaling and the strategies to overcome them.",
+            "url": "https://cdn.sanity.io/images/tlr8oxjg/production/5d89f75fb4e6732aef0fdbe99d2215b2f456368a-1456x816.png?w=3840&q=100&fit=clip&auto=format"
+        }
+    ]
+}
